@@ -10,10 +10,6 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
-body {
-  color: rgb(255, 255, 255);
-}
-
 #red {
   color: #f00;
 }
